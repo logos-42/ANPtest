@@ -118,7 +118,7 @@ export default function Home() {
         <h1 className={styles.title}>脱口秀AI智能体</h1>
         
         <p className={styles.description}>
-          基于自压缩DID的智能体，使用硅基流动API实现
+          基于自压缩DID的智能体，复制后可以调用这个智能体完成任务
         </p>
         
         <div className={styles.grid}>
